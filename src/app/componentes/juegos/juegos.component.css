@@ -1,7 +1,7 @@
 .background {
        
         
-    background-image: url('/assets/home.jpg');
+    background-image: url('/assets/juegos.jpg');
     /*
     background-repeat: no-repeat; 
     background-size: cover;
@@ -25,18 +25,3 @@
   
     
 }
-
-
-img {
-    position: fixed; 
-    top: 0; 
-    left: 0; 
-      
-    /* Preserve aspect ratio */
-    min-width: 100%;
-    min-height: 100%;
-  }
-
-
-
-  
